@@ -55,8 +55,7 @@ Higher Secondary	Government Boys Higher Secondary School, Karur	HSC: 87.16% · S
 🌐 IamNeo — Web Framework
 📊 GitHub Stats
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=v-rajadurai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-rajadurai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=v-rajadurai&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </div>
-🧠 LeetCode
-<div align="center"> <a href="https://leetcode.com/u/RAJADURAI_V"> <img src="https://leetcard.jwqh.dev/usercard?username=RAJADURAI_V&theme=dark&font=Fira%20Code" alt="LeetCode stats" /> </a> </div>
+
 🎯 Career Goal
 
 To start my career as an entry-level Java Full Stack Developer or Software Developer, building reliable, scalable web applications while continuing to grow in Spring Boot, React.js, cloud computing, and problem solving.
